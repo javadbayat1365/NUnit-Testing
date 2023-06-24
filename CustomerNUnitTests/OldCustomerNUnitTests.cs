@@ -12,7 +12,7 @@ namespace CustomerNUnitTests
     [Ignore("This test depricated")]
     internal class OldCustomerNUnitTests
     {
-        private Customer customer;
+        private Customer customer; 
         [OneTimeSetUp]
         public void OneTime()
         {
