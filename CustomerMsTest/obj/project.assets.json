@@ -6210,8 +6210,8 @@
     },
     "CustomerPro/1.0.0": {
       "type": "project",
-      "path": "../Sparky/CustomerPro.csproj",
-      "msbuildProject": "../Sparky/CustomerPro.csproj"
+      "path": "../CustomerPro/CustomerPro.csproj",
+      "msbuildProject": "../CustomerPro/CustomerPro.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -6231,11 +6231,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Projects\\Test\\Sparky\\SparkyMsTest\\CustomerMsTest.csproj",
+      "projectUniqueName": "E:\\Projects\\Test\\Sparky\\CustomerMsTest\\CustomerMsTest.csproj",
       "projectName": "CustomerMsTest",
-      "projectPath": "E:\\Projects\\Test\\Sparky\\SparkyMsTest\\CustomerMsTest.csproj",
+      "projectPath": "E:\\Projects\\Test\\Sparky\\CustomerMsTest\\CustomerMsTest.csproj",
       "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-      "outputPath": "E:\\Projects\\Test\\Sparky\\SparkyMsTest\\obj\\",
+      "outputPath": "E:\\Projects\\Test\\Sparky\\CustomerMsTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",
@@ -6259,8 +6259,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\Projects\\Test\\Sparky\\Sparky\\CustomerPro.csproj": {
-              "projectPath": "E:\\Projects\\Test\\Sparky\\Sparky\\CustomerPro.csproj"
+            "E:\\Projects\\Test\\Sparky\\CustomerPro\\CustomerPro.csproj": {
+              "projectPath": "E:\\Projects\\Test\\Sparky\\CustomerPro\\CustomerPro.csproj"
             }
           }
         }

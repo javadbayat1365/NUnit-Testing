@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dWLvIbDYnvGyxd73C2sEtuK2YcfJELd87ImWxY9vRwXY5dSeVntsTS7guburPvUeTKjAJB4VgcgYo2d88ff4LA==",
+  "dgSpecHash": "cOB2DQ/arwm6U3Nv5b6l+y6d5yPgaH9uWUjuRVqkTqIwm6xdkbPvmQQAnFOFlcOfQyAl6hNIkqPkZu24OBFNbA==",
   "success": true,
-  "projectFilePath": "E:\\Projects\\Test\\Sparky\\SparkyNUnitTests\\CustomerNUnitTests.csproj",
+  "projectFilePath": "E:\\Projects\\Test\\Sparky\\CustomerNUnitTests\\CustomerNUnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\asus\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\asus\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",

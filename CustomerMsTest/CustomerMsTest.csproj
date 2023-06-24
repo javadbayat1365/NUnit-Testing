@@ -16,7 +16,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Sparky\CustomerPro.csproj" />
+    <ProjectReference Include="..\CustomerPro\CustomerPro.csproj" />
   </ItemGroup>
 
 </Project>

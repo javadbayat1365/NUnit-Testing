@@ -13,7 +13,7 @@ namespace CustomerNUnitTests;
 [TestFixture]
 public class ProductNUnitTesting
 {
-    [Test]
+    [Test,Order(2)]
     public void GetProductPrice_CustomerPlatinium_Return20PercentDiscount()
     {
         //arrange
@@ -25,7 +25,7 @@ public class ProductNUnitTesting
         //assert
         Assert.That(result,Is.EqualTo(64));
     }
-    [Test]
+    [Test,Order(1)]
     public void GetProductPriceMoqAbuse_CustomerPlatinium_Return20PercentDiscount()
     {
         //arrange

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0VPqTtjjOtS83fHRnoeXkQQraIS0dv9xRwfMZ+zh0pmFg+EEbO9Eg3nh6NXitCXGUUyUnJs1dq3eC7QH61Qpyg==",
+  "dgSpecHash": "sGV6nluFa61Rodp91kpEaQRF0hcHeW7sYpspiD2aE5OJlHOgbhbnp2AxvsydJduAbu1fTH+tIrHQYMCcmv+3VQ==",
   "success": true,
-  "projectFilePath": "E:\\Projects\\Test\\Sparky\\SparkyMsTest\\CustomerMsTest.csproj",
+  "projectFilePath": "E:\\Projects\\Test\\Sparky\\CustomerMsTest\\CustomerMsTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\asus\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\asus\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",
