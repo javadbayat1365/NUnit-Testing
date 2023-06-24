@@ -1,0 +1,12 @@
+E:\Projects\Test\Sparky\Sparky\bin\Debug\net6.0\Sparky.deps.json
+E:\Projects\Test\Sparky\Sparky\bin\Debug\net6.0\Sparky.dll
+E:\Projects\Test\Sparky\Sparky\bin\Debug\net6.0\Sparky.pdb
+E:\Projects\Test\Sparky\Sparky\obj\Debug\net6.0\Sparky.csproj.AssemblyReference.cache
+E:\Projects\Test\Sparky\Sparky\obj\Debug\net6.0\Sparky.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\Test\Sparky\Sparky\obj\Debug\net6.0\Sparky.AssemblyInfoInputs.cache
+E:\Projects\Test\Sparky\Sparky\obj\Debug\net6.0\Sparky.AssemblyInfo.cs
+E:\Projects\Test\Sparky\Sparky\obj\Debug\net6.0\Sparky.csproj.CoreCompileInputs.cache
+E:\Projects\Test\Sparky\Sparky\obj\Debug\net6.0\Sparky.dll
+E:\Projects\Test\Sparky\Sparky\obj\Debug\net6.0\refint\Sparky.dll
+E:\Projects\Test\Sparky\Sparky\obj\Debug\net6.0\Sparky.pdb
+E:\Projects\Test\Sparky\Sparky\obj\Debug\net6.0\ref\Sparky.dll
